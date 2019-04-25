@@ -1,6 +1,6 @@
 module.exports = {
 	
-	getAnnotationPrefix: 'x-annotation-',
+	getAnnotationPrefix: '',
 	getAcceptedSchemes: ['http', 'https', 'ws', 'wss'],
 
 	isFilePath: function isFilePath(param) {
